@@ -1,0 +1,8 @@
+INFO - Validation successful: name is valid
+ERROR - Validation failed: name must be alphabetic
+ERROR - Validation failed: name must have at least two characters
+ERROR - Validation failed: name must be alphabetic
+ERROR - Validation failed: name must be alphabetic
+INFO - Validation successful: name is valid
+INFO - Validation successful: name is valid
+2025-01-19 19:58:47,297 - INFO - Validation successful: name is valid

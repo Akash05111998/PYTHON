@@ -1,0 +1,193 @@
+2025-01-19 16:40:58,345 - INFO - Validation successful: 'male' is a valid gender
+2025-01-19 16:54:15,712 - INFO - Validation successful: 'Male' is a valid gender
+2025-01-19 16:54:58,416 - ERROR - Validation failed: 'klj' is not a valid gender
+2025-01-19 16:54:58,416 - ERROR - Exception occurred: gender must be 'male', 'female', or 'other'
+Traceback (most recent call last):
+  File "gender_val.py", line 31, in validate_gender
+    raise ValueError("gender must be 'male', 'female', or 'other'")
+ValueError: gender must be 'male', 'female', or 'other'
+2025-01-19 17:21:02,257 - ERROR - Validation failed: '&' is not a valid gender
+2025-01-19 17:21:02,260 - ERROR - Exception occurred: gender must be 'male', 'female', or 'other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 35, in validate_gender
+    raise ValueError("gender must be 'male', 'female', or 'other'")
+ValueError: gender must be 'male', 'female', or 'other'
+2025-01-19 17:21:02,260 - ERROR - Validation failed: 'C:/Users/sanke/AppData/Local/Microsoft/WindowsApps/python3.8.exe' is not a valid gender
+2025-01-19 17:21:02,261 - ERROR - Exception occurred: gender must be 'male', 'female', or 'other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 35, in validate_gender
+    raise ValueError("gender must be 'male', 'female', or 'other'")
+ValueError: gender must be 'male', 'female', or 'other'
+2025-01-19 17:21:02,261 - ERROR - Validation failed: 'c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py' is not a valid gender
+2025-01-19 17:21:02,261 - ERROR - Exception occurred: gender must be 'male', 'female', or 'other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 35, in validate_gender
+    raise ValueError("gender must be 'male', 'female', or 'other'")
+ValueError: gender must be 'male', 'female', or 'other'
+2025-01-19 17:21:11,975 - INFO - Validation successful: 'male' is a valid gender
+2025-01-19 19:00:38,784 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:00:38,784 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:00:59,889 - ERROR - Validation failed: 'male' is not a valid gender
+2025-01-19 19:00:59,889 - ERROR - Validation failed: 'male' is not a valid gender
+2025-01-19 19:00:59,889 - ERROR - Validation failed: 'male' is not a valid gender
+2025-01-19 19:00:59,891 - ERROR - Exception occurred: gender must be 'M', 'F', or 'O'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_20580\1523146446.py", line 31, in validate_gender
+    raise ValueError("gender must be 'M', 'F', or 'O'")
+ValueError: gender must be 'M', 'F', or 'O'
+2025-01-19 19:00:59,891 - ERROR - Exception occurred: gender must be 'M', 'F', or 'O'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_20580\1523146446.py", line 31, in validate_gender
+    raise ValueError("gender must be 'M', 'F', or 'O'")
+ValueError: gender must be 'M', 'F', or 'O'
+2025-01-19 19:00:59,891 - ERROR - Exception occurred: gender must be 'M', 'F', or 'O'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_20580\1523146446.py", line 31, in validate_gender
+    raise ValueError("gender must be 'M', 'F', or 'O'")
+ValueError: gender must be 'M', 'F', or 'O'
+2025-01-19 19:02:25,545 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:02:25,545 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:02:25,545 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:02:25,545 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:03:45,307 - ERROR - Validation failed: 'saley' is not a valid gender
+2025-01-19 19:03:45,308 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:04:33,183 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:04:33,184 - ERROR - Validation failed: 'a' is not a valid gender
+2025-01-19 19:04:33,184 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:04:33,185 - ERROR - Validation failed: 'l' is not a valid gender
+2025-01-19 19:04:33,185 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:04:33,185 - ERROR - Validation failed: 'e' is not a valid gender
+2025-01-19 19:04:33,185 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:04:52,394 - INFO - Validation successful: 'M' is a valid gender (Male)
+2025-01-19 19:05:07,209 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:05:07,210 - ERROR - Validation failed: 'a' is not a valid gender
+2025-01-19 19:05:07,210 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:05:07,210 - ERROR - Validation failed: 'l' is not a valid gender
+2025-01-19 19:05:07,210 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:05:07,211 - ERROR - Validation failed: 'e' is not a valid gender
+2025-01-19 19:05:07,211 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 42, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:05:56,695 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:05:56,695 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:05:56,695 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:05:56,695 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:05:56,695 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:07:30,673 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:08:31,968 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:08:31,968 - ERROR - Validation failed: 'a' is not a valid gender
+2025-01-19 19:08:31,969 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:08:31,970 - ERROR - Validation failed: 'l' is not a valid gender
+2025-01-19 19:08:31,970 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:08:31,970 - ERROR - Validation failed: 'e' is not a valid gender
+2025-01-19 19:08:31,970 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:09:18,231 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:09:18,232 - ERROR - Validation failed: 'a' is not a valid gender
+2025-01-19 19:09:18,232 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:09:18,233 - ERROR - Validation failed: 'l' is not a valid gender
+2025-01-19 19:09:18,233 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:09:18,233 - ERROR - Validation failed: 'e' is not a valid gender
+2025-01-19 19:09:18,234 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:10:04,014 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:10:04,014 - ERROR - Validation failed: 'a' is not a valid gender
+2025-01-19 19:10:04,014 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:10:04,016 - ERROR - Validation failed: 'l' is not a valid gender
+2025-01-19 19:10:04,016 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:10:04,016 - ERROR - Validation failed: 'e' is not a valid gender
+2025-01-19 19:10:04,016 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:10:43,991 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:11:12,136 - INFO - Validation successful: 'Female' is a valid gender (Female)
+2025-01-19 19:11:38,089 - INFO - Validation successful: 'male' is a valid gender (Male)
+2025-01-19 19:11:43,920 - INFO - Validation successful: 'm' is a valid gender (Male)
+2025-01-19 19:14:56,676 - ERROR - Validation failed: '10' is not a valid gender
+2025-01-19 19:14:56,677 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:15:35,489 - ERROR - Validation failed: 'int(10)' is not a valid gender
+2025-01-19 19:15:35,490 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:15:48,259 - ERROR - Validation failed: '10' is not a valid gender
+2025-01-19 19:15:48,259 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 43, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:22:29,788 - ERROR - Validation failed: '20' is not a valid gender
+2025-01-19 19:22:29,788 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 47, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+2025-01-19 19:22:52,277 - ERROR - Validation failed: 'male20' is not a valid gender
+2025-01-19 19:22:52,277 - ERROR - Exception occurred: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 47, in validate_gender
+    raise ValueError("gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'")
+ValueError: gender must be 'M', 'F', 'O', 'Male', 'Female', or 'Other'

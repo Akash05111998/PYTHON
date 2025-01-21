@@ -1,0 +1,108 @@
+2025-01-19 17:39:00,214 - INFO - Validation successful: '1995-04-24' is a valid date
+2025-01-19 17:41:08,268 - INFO - Validation successful: '24-04-1995' is a valid date
+2025-01-19 17:41:08,268 - INFO - Validation successful: '24-04-1995' is a valid date
+2025-01-19 17:41:33,716 - ERROR - Exception occurred: time data '24/04/1995' does not match format '%d-%m-%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\2026364506.py", line 20, in validate_date
+    datetime.strptime(date_str, date_format)
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/04/1995' does not match format '%d-%m-%Y'
+2025-01-19 17:41:33,716 - ERROR - Exception occurred: time data '24/04/1995' does not match format '%d-%m-%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\2026364506.py", line 20, in validate_date
+    datetime.strptime(date_str, date_format)
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/04/1995' does not match format '%d-%m-%Y'
+2025-01-19 17:41:33,716 - ERROR - Exception occurred: time data '24/04/1995' does not match format '%d-%m-%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\2026364506.py", line 20, in validate_date
+    datetime.strptime(date_str, date_format)
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/04/1995' does not match format '%d-%m-%Y'
+2025-01-19 17:45:53,879 - ERROR - Exception occurred: time data '24/24/1993' does not match format '%d/%m/%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 18, in validate_date
+    date_obj = datetime.strptime(date_str, '%d-%m-%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d-%m-%Y'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 20, in validate_date
+    date_obj = datetime.strptime(date_str, '%d/%m/%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d/%m/%Y'
+2025-01-19 17:45:53,879 - ERROR - Exception occurred: time data '24/24/1993' does not match format '%d/%m/%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 18, in validate_date
+    date_obj = datetime.strptime(date_str, '%d-%m-%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d-%m-%Y'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 20, in validate_date
+    date_obj = datetime.strptime(date_str, '%d/%m/%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d/%m/%Y'
+2025-01-19 17:45:53,879 - ERROR - Exception occurred: time data '24/24/1993' does not match format '%d/%m/%Y'
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 18, in validate_date
+    date_obj = datetime.strptime(date_str, '%d-%m-%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d-%m-%Y'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_14096\46871441.py", line 20, in validate_date
+    date_obj = datetime.strptime(date_str, '%d/%m/%Y')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\bigdata\anaconda3\Lib\_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '24/24/1993' does not match format '%d/%m/%Y'
+2025-01-19 17:49:41,900 - INFO - Validation successful: '24/04/1993' is a valid date, converted to '24-04-1993'
+2025-01-19 17:49:41,900 - INFO - Validation successful: '24/04/1993' is a valid date, converted to '24-04-1993'
+2025-01-19 17:49:41,900 - INFO - Validation successful: '24/04/1993' is a valid date, converted to '24-04-1993'

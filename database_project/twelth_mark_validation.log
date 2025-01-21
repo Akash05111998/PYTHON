@@ -1,0 +1,6 @@
+2025-01-19 19:56:14,301 - ERROR - Validation failed: '36.0' is not within the valid range (40-100)
+2025-01-19 19:56:14,303 - ERROR - Exception occurred: Not Eligible your 36.0% less than 40%
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/twelth_mark_val.py", line 18, in validate_tenth_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 36.0% less than 40%

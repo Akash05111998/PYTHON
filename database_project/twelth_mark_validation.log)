@@ -1,0 +1,6 @@
+2025-01-19 19:53:18,417 - ERROR - Validation failed: '25.0' is not within the valid range (40-100)
+2025-01-19 19:53:18,418 - ERROR - Exception occurred: Not Eligible your 25.0% less than 40%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_1744\3923626332.py", line 17, in twelth_marks_validation
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 25.0% less than 40%

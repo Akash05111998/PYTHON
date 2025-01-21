@@ -1,0 +1,80 @@
+2025-01-19 19:26:37,418 - ERROR - Validation failed: '101.0' is not within the valid range (0-100)
+2025-01-19 19:26:37,419 - ERROR - Exception occurred: marks must be between 0 and 100
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\2261400121.py", line 21, in validate_tenth_marks
+    raise ValueError("marks must be between 0 and 100")
+ValueError: marks must be between 0 and 100
+2025-01-19 19:30:09,887 - INFO - Validation successful: '20.0' is a valid percentage
+2025-01-19 19:30:32,638 - ERROR - Validation failed: '32.0' is not within the valid range (0-100)
+2025-01-19 19:30:32,639 - ERROR - Exception occurred: percentage must be between 0 and 100
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\525047337.py", line 15, in validate_percentage
+    raise ValueError("percentage must be between 0 and 100")
+ValueError: percentage must be between 0 and 100
+2025-01-19 19:31:28,680 - ERROR - Validation failed: '35.0' is not within the valid range (0-100)
+2025-01-19 19:31:28,681 - ERROR - Exception occurred: percentage less than 35.0
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\4086432716.py", line 15, in validate_percentage
+    raise ValueError(f"percentage less than {percentage}")
+ValueError: percentage less than 35.0
+2025-01-19 19:34:18,452 - ERROR - Validation failed: '35.0' is not within the valid range (40-100)
+2025-01-19 19:34:18,454 - ERROR - Exception occurred: Not Eligible your 35.0% less than 40%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\1438521601.py", line 15, in validate_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 35.0% less than 40%
+2025-01-19 19:34:43,199 - ERROR - Validation failed: '35.32' is not within the valid range (40-100)
+2025-01-19 19:34:43,201 - ERROR - Exception occurred: Not Eligible your 35.32% less than 40%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\1438521601.py", line 15, in validate_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 35.32% less than 40%
+2025-01-19 19:34:55,734 - ERROR - Validation failed: '35.236' is not within the valid range (40-100)
+2025-01-19 19:34:55,735 - ERROR - Exception occurred: Not Eligible your 35.236% less than 40%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\1438521601.py", line 15, in validate_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 35.236% less than 40%
+2025-01-19 19:35:17,932 - INFO - Validation successful: '56.36' is a valid percentage
+2025-01-19 19:35:26,811 - ERROR - Validation failed: '63.325' has more than two decimal places
+2025-01-19 19:35:26,812 - ERROR - Exception occurred: percentage cannot have more than two decimal places
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\1438521601.py", line 18, in validate_percentage
+    raise ValueError("percentage cannot have more than two decimal places")
+ValueError: percentage cannot have more than two decimal places
+2025-01-19 19:36:49,342 - ERROR - Validation failed: '365.0' is not within the valid range (40-100)
+2025-01-19 19:36:49,342 - ERROR - Exception occurred: Not Eligible your 365.0% less than 40%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\1545820050.py", line 15, in validate_tenth_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 365.0% less than 40%
+2025-01-19 19:38:56,499 - ERROR - Validation failed: '200.0' is not within the valid range (40-100)
+2025-01-19 19:38:56,501 - ERROR - Exception occurred: Not Eligible your 200.0% less than 100%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\3590421583.py", line 18, in validate_tenth_percentage
+    raise ArithmeticError(f"Not Eligible your {percentage}% less than 100%")
+ArithmeticError: Not Eligible your 200.0% less than 100%
+2025-01-19 19:40:07,957 - ERROR - Validation failed: '365.0' is not within the valid range (40-100)
+2025-01-19 19:40:07,958 - ERROR - Exception occurred:  Wrong Percentage 365.0% less than 100%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\2109995178.py", line 18, in validate_tenth_percentage
+    raise TypeError(f" Wrong Percentage {percentage}% less than 100%")
+TypeError:  Wrong Percentage 365.0% less than 100%
+2025-01-19 19:41:04,756 - ERROR - Validation failed: '365.0' is not within the valid range (40-100)
+2025-01-19 19:41:04,757 - ERROR - Exception occurred:  365.0% Wrong Percentage it's under 100%
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Temp\ipykernel_24824\349891446.py", line 18, in validate_tenth_percentage
+    raise TypeError(f" {percentage}% Wrong Percentage it's under 100%")
+TypeError:  365.0% Wrong Percentage it's under 100%
+2025-01-19 19:48:45,294 - ERROR - Validation failed: '365.0' is not within the valid range (40-100)
+2025-01-19 19:48:45,294 - ERROR - Exception occurred:  365.0% Wrong Percentage it's under 100%
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/tenth_marks_val.py", line 19, in validate_tenth_percentage
+    raise TypeError(f" {percentage}% Wrong Percentage it's under 100%")
+TypeError:  365.0% Wrong Percentage it's under 100%
+2025-01-19 19:49:04,213 - ERROR - Validation failed: '25.0' is not within the valid range (40-100)
+2025-01-19 19:49:04,213 - ERROR - Exception occurred: Not Eligible your 25.0% less than 40%
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/tenth_marks_val.py", line 16, in validate_tenth_percentage
+    raise ValueError(f"Not Eligible your {percentage}% less than 40%")
+ValueError: Not Eligible your 25.0% less than 40%

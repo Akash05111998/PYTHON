@@ -1,0 +1,5 @@
+2025-01-19 11:14:41,114 - INFO - Validation successful: mobile number is valid
+2025-01-19 11:16:31,693 - ERROR - Validation failed: mobile number must contain only digits
+2025-01-19 11:16:31,693 - ERROR - Validation failed: mobile number must contain only digits
+2025-01-19 11:18:02,986 - INFO - Validation successful: mobile number is valid
+2025-01-19 11:18:34,604 - ERROR - Validation failed: mobile number must be 10 digits long

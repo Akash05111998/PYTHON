@@ -1,0 +1,49 @@
+ERROR - Validation failed: 'sanket' is not a valid email
+INFO - Validation successful: 'wadesanket@gmail.com' is a valid email
+INFO - Validation successful: 'wadesanket@gmail.com' is a valid email
+2025-01-19 10:26:05,345 - INFO - Validation successful: 'wadesanket@gmail.com' is a valid email
+INFO - Validation successful:wadesanket@gmail.com email is valid
+2025-01-19 10:53:21,528 - INFO - Validation successful:wadesanket@gmail.com email is valid
+2025-01-19 10:53:21,528 - INFO - Validation successful:wadesanket@gmail.com email is valid
+INFO - Validation successful:sanket@gmail.com email is valid
+2025-01-19 10:53:59,020 - INFO - Validation successful:sanket@gmail.com email is valid
+2025-01-19 10:53:59,020 - INFO - Validation successful:sanket@gmail.com email is valid
+2025-01-19 10:53:59,020 - INFO - Validation successful:sanket@gmail.com email is valid
+INFO - Validation successful: 'wade.sanket@gmail.com' is a valid email
+2025-01-19 10:54:42,668 - INFO - Validation successful: 'wade.sanket@gmail.com' is a valid email
+2025-01-19 10:54:42,668 - INFO - Validation successful: 'wade.sanket@gmail.com' is a valid email
+2025-01-19 10:54:42,668 - INFO - Validation successful: 'wade.sanket@gmail.com' is a valid email
+2025-01-19 10:54:42,668 - INFO - Validation successful: 'wade.sanket@gmail.com' is a valid email
+INFO - Validation successful: 'sanket@gmail.com' is a valid email
+2025-01-19 10:55:24,965 - INFO - Validation successful: 'sanket@gmail.com' is a valid email
+2025-01-19 10:55:24,965 - INFO - Validation successful: 'sanket@gmail.com' is a valid email
+2025-01-19 10:55:24,965 - INFO - Validation successful: 'sanket@gmail.com' is a valid email
+2025-01-19 10:55:24,965 - INFO - Validation successful: 'sanket@gmail.com' is a valid email
+2025-01-19 10:55:24,965 - INFO - Validation successful: 'sanket@gmail.com' is a valid email
+INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:56:43,891 - INFO - Validation successful: 'sanketwade@gmail.com' is a valid email
+2025-01-19 10:57:25,262 - INFO - Validation successful: 'wadesanket@gmail.com' is a valid email
+2025-01-19 10:57:36,407 - ERROR - Validation failed: 'wade@@gmail.com' is not a valid email
+2025-01-19 11:00:49,498 - INFO - Validation successful:wadesanket@gmial.com email is valid
+2025-01-19 11:00:49,499 - ERROR - Validation failed:sanket..@gmail.com email can not contain more than one .
+2025-01-19 11:00:49,499 - ERROR - Validation failed:sanket..@gmail.com email can not contain more than one .
+2025-01-19 11:00:49,501 - ERROR - Validation failed:sanket.wade@.con email can not contain more than one .
+2025-01-19 11:00:49,501 - ERROR - Validation failed:sanket.wade@.con email can not contain more than one .
+2025-01-19 11:00:49,501 - ERROR - Validation failed:sanket.wade@.con email can not contain more than one .
+2025-01-19 11:01:43,470 - INFO - Validation successful:sanketwade@gmail.com email is valid
+2025-01-19 11:01:43,471 - INFO - Validation successful:sanketwade@gmail.con email is valid
+2025-01-19 11:01:43,471 - INFO - Validation successful:sanketwade@gmail.con email is valid
+ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:12,589 - ERROR - Validation failed:wadesanket@gmail.con email is not valid
+2025-01-19 11:04:56,146 - ERROR - Validation failed:wadesanket@gmail.con email is not valid

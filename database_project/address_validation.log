@@ -1,0 +1,527 @@
+2025-01-19 15:02:27,213 - INFO - Validation successful: address is valid
+2025-01-19 15:05:02,572 - INFO - Validation successful: address is valid
+2025-01-19 15:11:58,043 - INFO - Validation successful: address is valid
+2025-01-19 16:29:27,332 - INFO - Validation successful: address is valid
+2025-01-19 16:30:33,240 - INFO - Validation successful: address is valid
+2025-01-19 20:02:19,303 - ERROR - Validation failed: address contains invalid characters
+2025-01-19 20:02:19,304 - ERROR - Exception occurred: address contains invalid characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 35, in validate_address
+    raise ValueError("address contains invalid characters")
+ValueError: address contains invalid characters
+2025-01-19 20:02:49,269 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,270 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,271 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,271 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,271 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,271 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,273 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,273 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,273 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,273 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,273 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,274 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,274 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,274 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,274 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,274 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,275 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,275 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,275 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,275 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,276 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,276 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,278 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,279 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,279 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,280 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,283 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,283 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,284 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,284 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,284 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,284 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,285 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,286 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,287 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,287 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,288 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,288 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,289 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,290 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,294 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,295 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,296 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,296 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,297 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,297 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,298 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,298 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,299 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,300 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,301 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,301 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,302 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,302 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,304 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,304 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,304 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,305 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,305 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,306 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,307 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,307 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,308 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,309 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,309 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,309 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,310 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,310 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,311 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,313 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,313 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,313 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,313 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,314 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,314 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,314 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,314 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,315 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,315 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,316 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,317 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,318 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,318 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,319 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,319 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,320 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,320 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,321 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,321 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,321 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,321 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,323 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,323 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,323 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,323 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,324 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,325 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,325 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:02:49,325 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:02:49,326 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,479 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,480 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,480 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,481 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,481 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,481 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,481 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,481 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,483 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,483 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,483 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,484 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,484 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,484 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,484 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,484 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,485 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,485 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,486 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,486 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,486 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,486 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,487 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,487 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,487 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,487 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,488 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,489 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,489 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,489 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,489 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,490 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,490 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,490 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,490 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,490 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,491 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,493 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,494 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,494 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,494 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,494 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters
+2025-01-19 20:03:44,495 - ERROR - Validation failed: address must have at least 10 characters
+2025-01-19 20:03:44,495 - ERROR - Exception occurred: address must have at least 10 characters
+Traceback (most recent call last):
+  File "d:/Bizmetric Intership/database_project/address_val.py", line 32, in validate_address
+    raise ValueError("address must have at least 10 characters")
+ValueError: address must have at least 10 characters

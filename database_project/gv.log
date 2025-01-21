@@ -1,0 +1,7 @@
+2025-01-19 17:18:16,572 - ERROR - Validation failed: 'M' is not a valid gender
+2025-01-19 17:18:16,572 - ERROR - Exception occurred: gender must be 'male', 'female', or 'other'
+Traceback (most recent call last):
+  File "c:/Users/sanke/Desktop/Bizmetric_internship/database_project/gender_val.py", line 35, in validate_gender
+    raise ValueError("gender must be 'male', 'female', or 'other'")
+ValueError: gender must be 'male', 'female', or 'other'
+2025-01-19 17:18:35,292 - INFO - Validation successful: 'male' is a valid gender
